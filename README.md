@@ -8,6 +8,7 @@ Scene Description Language (SDL), is the language that powers POV-Ray.
 - It is case sensitive, e.g.
     
     color [yellow] ❌
+  
     color [Yellow] ✅
 
 More information can be found below:
